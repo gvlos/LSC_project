@@ -1,4 +1,5 @@
-# LSC_project
+# Alternating Least Squares (ALS) with PySpark
+
 Large Scale Computing: University of Genoa (101799) - Fall 2019 - Final project
 
 <br>
